@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace DimasAhmad\AndroidAutoresponderServer;
+namespace DimasAhmad\AutoresponderSDK;
 
 class Autoresponder
 {

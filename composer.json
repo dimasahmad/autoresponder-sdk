@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "DimasAhmad\\AndroidAutoresponderServer\\": "src/"
+      "DimasAhmad\\AutoresponderSDK\\": "src/"
     }
   }
 }
