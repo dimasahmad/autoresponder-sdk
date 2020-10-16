@@ -3,11 +3,11 @@
 namespace DimasAhmad\AutoresponderSDK;
 
 class IncomingMessage {
-    protected string $application;
-    protected string $sender;
-    protected string $message;
-    protected bool $isGroup;
-    protected int $ruleId;
+    public string $application;
+    public string $sender;
+    public string $message;
+    public bool $isGroup;
+    public int $ruleId;
 
     /**
      * Incoming message object
