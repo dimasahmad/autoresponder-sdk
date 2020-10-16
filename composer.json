@@ -1,0 +1,24 @@
+{
+  "name": "dimasahmad/android-autoresponder-server",
+  "type": "library",
+  "description": "Server for Autoresponder Apps on Android",
+  "homepage": "https://github.com/dimasahmad/android-autoresponder-server",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dimas Ahmad Eka Putra",
+      "email": "dimasahmad@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": "^7.4",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "DimasAhmad\\AndroidAutoresponderServer\\": "src/"
+    }
+  }
+}
